@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <em> Mapa enorme, muitos veículos únicos, skins únicas, qualidade absurda de sistemas, milhares de jogadores e uma verdadeira atmosfera de Role Play!
-
-Tudo isso e muito mais, você pode experimentar conosco! O jogo está disponível no PC, bem como no telefone! Entre em nossa comunidade do discord e não perca as últimas novidades!</em>
+  <em> Mapa enorme, muitos veículos únicos, skins únicas, qualidade absurda de sistemas, milhares de jogadores e uma verdadeira atmosfera de Role Play!</em>
+</p>
+<p align="center">
+  <em> Tudo isso e muito mais, você pode experimentar conosco! O jogo está disponível no PC, bem como no telefone! Entre em nossa comunidade do discord e não perca as últimas novidades!</em>
     </p>
