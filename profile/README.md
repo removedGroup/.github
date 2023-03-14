@@ -14,5 +14,3 @@
 <p align="center">
   <em> Tudo isso e muito mais, você pode experimentar conosco! O jogo está disponível no PC, bem como no telefone! Entre em nossa comunidade do discord e não perca as últimas novidades!</em>
     </p>
-        
-![Discord Banner 3](https://discordapp.com/api/guilds/1019244218973159484/widget.png?style=banner3)    
