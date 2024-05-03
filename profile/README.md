@@ -34,4 +34,3 @@ A Supremo Group é uma comunidade colaborativa e estamos sempre abertos a sugest
 ## Aviso Legal
 
 O GTA V é uma marca registrada da Rockstar Games. A Supremo Group não é afiliada à Rockstar Games e não pretende violar seus direitos autorais ou propriedade intelectual.
-O GTA V é uma marca registrada da Rockstar Games. A Supremo Group não é afiliada à Rockstar Games e não pretende violar seus direitos autorais ou propriedade intelectual.
