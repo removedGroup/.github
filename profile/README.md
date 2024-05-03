@@ -6,6 +6,8 @@ Bem-vindo à Supremo Group, onde a diversão encontra o universo expansivo do Gr
 
 A Supremo Group é uma rede de servidores SA-MP que visa proporcionar uma experiência de jogo excepcional aos jogadores de todo o mundo. Com servidores dedicados e uma equipe apaixonada, buscamos criar um ambiente divertido e seguro para todos os nossos membros.
 
+**Nota:** Nosso servidor é multiplataforma, sendo compatível com PC e Android.
+
 ## Recursos Principais
 
 - **Mapa do GTA V**: Explore Los Santos e Blaine County como nunca antes, com o mapeamento completo do GTA V e FiveM trazido para o SA-MP.
@@ -16,7 +18,7 @@ A Supremo Group é uma rede de servidores SA-MP que visa proporcionar uma experi
 
 ## Como Jogar
 
-1. **Instale o Supremo Launcher**:  Você pode baixá-lo em [supremorp.com](https://supremorp.com/).
+1. **Instale o Supremo Launcher**: Você pode baixá-lo em [supremorp.com](https://supremorp.com/).
 2. **Conecte-se aos Nossos Servidores**: Abra o Supremo Launcher e procure pelos servidores da Supremo Group na lista de servidores.
 3. **Crie sua Conta**: Ao entrar no servidor, você pode criar uma conta para acessar todos os recursos disponíveis e acompanhar seu progresso.
 
