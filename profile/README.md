@@ -1,4 +1,4 @@
-# Supremo Group
+# Supremo Group 👑
 
 Bem-vindo à Supremo Group, onde a diversão encontra o universo expansivo do Grand Theft Auto V no San Andreas Multiplayer (SA-MP). Nossa comunidade oferece uma experiência única de jogo, combinando o vasto mapa e a jogabilidade empolgante do GTA V com recursos multiplayer emocionantes.
 
